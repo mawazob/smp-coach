@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Saved model (recreated automatically on the first run)
+*.joblib
+smp_coach_model
+
+# Secrets (not used now, but keep out of Git if you add an API later)
+.env
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
