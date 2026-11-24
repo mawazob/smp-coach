@@ -20,8 +20,8 @@ This is a learning project for Python and machine learning with scikit-learn. It
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/mawazob/smp-coach.git
+cd smp-coach
 
 # 2. (Recommended) create a virtual environment
 python -m venv .venv
